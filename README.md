@@ -30,6 +30,16 @@ This project demonstrates fundamental machine learning workflows using Python an
 - matplotlib / seaborn
 - scikit-learn
 
+ 🧠 Skills Demonstrated
+
+Strong grasp of object-oriented programming and Pythonic practices
+
+Applied machine learning concepts and tools for real-world datasets
+
+Analytical thinking and model interpretation
+
+Data visualization and presentation
+
 You can install the dependencies with:
 
 ```bash
